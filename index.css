@@ -1,0 +1,33 @@
+body {
+    font-family: 'JetBrains Mono', monospace;
+    border: 5px;
+    text-align: center;
+    float: center;
+    background: #0080ff;
+}
+div{
+    font-family: 'JetBrains Mono', monospace;
+    float: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    border-radius: 25px;
+    background: #0080ff;
+    box-shadow:  20px 20px 60px #006ad9,
+                 -20px -20px 60px #009dff;
+}
+h1, h2, h3, h4, h5{
+    color: #1f1e33;
+}
+a{
+    color: #1f1e33;
+}
+#twe {
+    float: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 12px;
+    background: #292f33;
+    box-shadow:  10px 10px 30px #23282b,
+                 -10px -10px 30px #2f363b;
+}
